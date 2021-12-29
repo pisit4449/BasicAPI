@@ -16,6 +16,6 @@
         "subtitle":"Tools สำหรับออกแบบ UI ใน Google",
         "image_url":"https://raw.githubusercontent.com/pisit4449/BasicAPI/main/coding.jpg",
         "detail":"เรามาเริ่มกับ Palm กันในปี 1996 ยุคที่คนเริ่มหันมาสนใจเรื่องของหน้าตาโทรศัพท์ จอเริ่มใหญ่ขึ้นเเละสามารถปากกาจิ้มที่หน้าจอได้ ซึ่งยุคนั้นต้องยกให้ Palm (PDA) เครื่องจะคล้ายๆ กับเครื่องคิดเลขขนาดใหญ่ ต้องเรียนรู้วิธีใช้ ซึ่งเจ้า palm เนี้ยใช้ C++ ในการพัฒนาเเละใช้ browser ในการ run โดยใช้ WAB(Wireless Application Browser Protocol)https://en.wikipedia.org/wiki/Palm_(PDA)#/media/File:Palm_TX.JPGต่อมาปี 2002 ทาง Nokia Prism Ericsson สามบริษัทร่วมมือกัน สร้างมือถือรุ่นฝาพับโดยใช้ภาษา Symbian พัฒนาขึ้นซึ่งตอนนั้นก็น่าจะเป็นรุ่น Nokia_7650"
-    },
+    }
 
 ]
